@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q8K1OmLNNjLjTzdiBx1D37vpTCQ3cjXGpixvMMxNkjY=",
+  "Source": "dotnet6-MT940Api",
+  "BasePath": "_content/dotnet6-MT940Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
